@@ -1,4 +1,4 @@
-# proeycto catálogo pelis
+# proyecto catálogo pelis
 
 Pantalla de inicio. La aplicación debe contar con una pantalla de inicio donde muestre la bienvenida y de opción a registrarse como usuario y para ingresar si ya eres usuario. 
 
